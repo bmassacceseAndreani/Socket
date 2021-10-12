@@ -1,0 +1,48 @@
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\Desktop\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\Desktop\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.exe
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.deps.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.runtimeconfig.dev.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\bin\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.AssemblyReference.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.AssemblyInfo.cs
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\ref\SocketServer.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.pdb
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Server\SocketServer\SocketServer\obj\Debug\net5.0\SocketServer.genruntimeconfig.cache

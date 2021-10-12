@@ -1,0 +1,32 @@
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.exe
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.deps.json
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.json
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.dev.json
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.dll
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\ref\SocketClient.dll
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.pdb
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfo.cs
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.dll
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\ref\SocketClient.dll
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.pdb
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.genruntimeconfig.cache
+C:\Users\bmassaccese\Desktop\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csproj.AssemblyReference.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.exe
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.deps.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.runtimeconfig.dev.json
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\ref\SocketClient.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\bin\Debug\net5.0\SocketClient.pdb
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csproj.AssemblyReference.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.AssemblyInfo.cs
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\ref\SocketClient.dll
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.pdb
+C:\Users\bmassaccese\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VLM\Scanner\Socket\Client\SocketClient\SocketClient\obj\Debug\net5.0\SocketClient.genruntimeconfig.cache
